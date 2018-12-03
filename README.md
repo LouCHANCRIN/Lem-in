@@ -10,7 +10,7 @@
 * ./lem-in my_map
 
 ### Map example :
-'''
+```
 ##start
 1 23 3
 2 16 7
@@ -37,7 +37,7 @@
 #C'est la fin
 6-5
 #autre commentaire
-'''
+```
 
 ### To do :
 
