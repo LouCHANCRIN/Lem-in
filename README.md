@@ -6,10 +6,6 @@
 * In this project, I need to find the path I can use and then move my ants in the best way possible
 * Each time the program will move an ant it will print it as follow : Lx-room_name with x being the number of the ant. if multiple ants are moved at the same time, it will all be printed in one line.
 
-### Usage :
-
-* ./lem-in my_map
-
 ### Map :
 
 * The first part of the map is an integer which represent the number of ants we have in the starting room
@@ -48,6 +44,14 @@
 6-5
 #autre commentaire
 ```
+
+### Usage :
+
+* make : create the binary
+* make clean : delete the .o file
+* make fclean : delete the .o and binary file
+* make re : use 'make fclean' and then use 'make'
+* ./lem-in my_map
 
 ### To do :
 
