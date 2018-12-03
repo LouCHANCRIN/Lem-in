@@ -55,8 +55,8 @@
 
 * make : create the binary
 * make clean : delete the .o file
-* make fclean : delete the .o and binary file
-* make re : use 'make fclean' and then use 'make'
+* make fclean : call clean and delete the binary file
+* make re : call fclean and make
 * ./lem-in my_map
 
 ### To do :
