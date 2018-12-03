@@ -45,6 +45,12 @@
 #autre commentaire
 ```
 
+### Requirements :
+
+* C library
+* make
+* gcc or clang
+
 ### Usage :
 
 * make : create the binary
