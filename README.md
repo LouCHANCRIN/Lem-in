@@ -11,9 +11,9 @@
 
 ### Map :
 
-* The first part of the map is an integer which represent the number of ants we have in the starting room.
-* The second part of the map is the name of the room followed but it's coordinates x and y.
-* The ##start and ##end indicate that the room below is the starting/ending point.
+* The first part of the map is an integer which represent the number of ants we have in the starting room
+* The second part of the map is the name of the room followed but it's coordinates x and y
+* The ##start and ##end indicate that the room below is the starting/ending point
 * The third and last part represent the link between the room
 * The link between room must be formated as follow : room1_name-room2_name
 
