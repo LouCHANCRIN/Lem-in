@@ -3,7 +3,7 @@
 ### About Lem-in :
 
 * The goal of this project is to move ants throughs multiple path.
-* In this project, I need to find the path I can use and then move my ants in the best way possible
+* In this project, I need to find the paths I can use and then move my ants in the best way possible
 * Each time the program will move an ant it will print it as follow : Lx-room_name with x being the number of the ant. if multiple ants are moved at the same time, it will all be printed in one line.
 
 ### Map :
